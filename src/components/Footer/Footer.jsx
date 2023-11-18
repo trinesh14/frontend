@@ -54,7 +54,7 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <span className="text">
-                        Anime World CREATED BY Trinesh.
+                        Video Songs Website Created BY Trinesh.
                     </span>
                     <img src={Payment} alt="Payment icon"></img>
                 </div>
