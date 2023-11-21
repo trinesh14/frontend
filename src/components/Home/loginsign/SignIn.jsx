@@ -1,5 +1,6 @@
 import React from "react";
-import CryptoJS from "crypto-js";
+// import CryptoJS from "crypto-js";
+import "../../../crypto.js"
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
